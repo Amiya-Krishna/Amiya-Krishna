@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi 👋, I'm Amiya Krishna
 
-<!--
-**Amiya-Krishna/Amiya-Krishna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔗 GitHub: https://github.com/Amiya-Krishna
 
-Here are some ideas to get you started:
+🎓 Engineering Student
+🤖 AI & Machine Learning Enthusiast
+🚀 Passionate about building real-world projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 About Me
+
+* 🌱 Currently learning **Machine Learning & Deep Learning**
+* 💡 Interested in **AI, Data Science & Problem Solving**
+* 🎯 Goal: Becoming a skilled **AI Engineer**
+* ⚡ Always exploring new technologies and improving skills
+
+---
+
+## 🛠️ Tech Stack
+
+* 💻 Languages: **Python, C++**
+* 📊 AI/ML: **NumPy, Pandas, Scikit-learn**
+* ⚙️ Tools: **Git, GitHub**
+* 🧰 Other: Problem Solving & DSA
+
+---
+
+## 🚀 Projects
+
+* 🔹 Add your best projects here
+* 🔹 Project Name – Short description + link
+* 🔹 Project Name – Short description + link
+
+---
+
+## 🌐 Connect with Me
+
+* 💼 LinkedIn: https://www.linkedin.com/in/amiya-krishna
+* 📸 Instagram: https://www.instagram.com/er.amiyakrishna
+
+---
+
+⭐ *"Learning, Building, and Growing every day in Tech"*
