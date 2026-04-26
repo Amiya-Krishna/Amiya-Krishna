@@ -28,9 +28,7 @@
 
 ## 🚀 Projects
 
-* 🔹 Add your best projects here
-* 🔹 Project Name – Short description + link
-* 🔹 Project Name – Short description + link
+AI-Autonomous-Navigation-System
 
 ---
 
