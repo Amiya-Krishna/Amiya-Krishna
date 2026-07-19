@@ -1,44 +1,134 @@
 # Hi 👋, I'm Amiya Krishna
 
-🔗 Portfolio: https://amiya-krishna-portfolio.vercel.app
+<h3 align="center">Full Stack Developer | Computer Science Student | Building Scalable Web Applications</h3>
 
-🔗 GitHub: https://github.com/Amiya-Krishna
-
-🎓 Engineering Student
-🤖 AI & Machine Learning Enthusiast
-🚀 Passionate about building real-world projects
-
----
-
-## 🧠 About Me
-
-* 🌱 Currently learning **Machine Learning & Deep Learning**
-* 💡 Interested in **AI, Data Science & Problem Solving**
-* 🎯 Goal: Becoming a skilled **AI Engineer**
-* ⚡ Always exploring new technologies and improving skills
+<p align="center">
+<a href="https://amiya-krishna-portfolio.vercel.app">Portfolio</a> •
+<a href="https://github.com/Amiya-Krishna">GitHub</a> •
+<a href="https://www.linkedin.com/in/amiya-krishna">LinkedIn</a>
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+## 👨‍💻 About Me
 
-* 💻 Languages: **Python, C++**
-* 📊 AI/ML: **NumPy, Pandas, Scikit-learn**
-* ⚙️ Tools: **Git, GitHub**
-* 🧰 Other: Problem Solving & DSA
-
----
-
-## 🚀 Projects
-
-AI-Autonomous-Navigation-System
+- 🎓 Third-Year B.Tech Computer Science Student
+- 💻 Passionate about Full Stack Web Development
+- 🚀 Building real-world applications using modern technologies
+- 📚 Currently learning Backend Development, System Design, and Cloud
+- 🎯 Preparing for Software Engineering Internships & Placements
+- ⚡ Love solving problems with clean and scalable code
 
 ---
 
-## 🌐 Connect with Me
+## 🚀 Tech Stack
 
-* 💼 LinkedIn: https://www.linkedin.com/in/amiya-krishna
-* 📸 Instagram: https://www.instagram.com/er.amiyakrishna
+### Languages
+
+- C++
+- TypeScript
+- JavaScript
+- Python
+- SQL
+
+### Frontend
+
+- Next.js
+- React.js
+- HTML5
+- CSS3
+- Tailwind CSS
+
+### Backend
+
+- Node.js
+- Express.js
+- REST APIs
+
+### Database & ORM
+
+- PostgreSQL
+- Prisma ORM
+
+### Tools & Platforms
+
+- Git
+- GitHub
+- VS Code
+- Postman
+- Vercel
 
 ---
 
-⭐ *"Learning, Building, and Growing every day in Tech"*
+## 🚀 Featured Projects
+
+### 🎓 College Discovery Platform
+
+A modern full-stack platform for discovering and comparing colleges.
+
+### Features
+
+- 🔍 Search Colleges
+- 📊 Compare Colleges
+- 🎯 College Prediction using Rank
+- ❤️ Save Favorite Colleges
+- 🔐 Authentication
+- 📱 Responsive UI
+
+**Tech Stack**
+
+- Next.js
+- TypeScript
+- PostgreSQL
+- Prisma ORM
+- Tailwind CSS
+
+---
+
+### 🤖 AI Autonomous Navigation System
+
+An AI-based navigation project focused on intelligent path planning and autonomous decision-making.
+
+---
+
+## 📈 Currently Learning
+
+- Advanced Backend Development
+- System Design
+- Authentication & Security
+- Docker
+- Cloud Deployment
+- Data Structures & Algorithms
+
+---
+
+## 📫 Connect With Me
+
+- 🌐 Portfolio: https://amiya-krishna-portfolio.vercel.app
+- 💼 LinkedIn: https://www.linkedin.com/in/amiya-krishna
+- 💻 GitHub: https://github.com/Amiya-Krishna
+- 📸 Instagram: https://www.instagram.com/er.amiyakrishna
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Amiya-Krishna&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amiya-Krishna&layout=compact&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Amiya-Krishna&theme=tokyonight"/>
+</p>
+
+---
+
+## 💡 Quote
+
+> "Building projects, writing clean code, and learning something new every day."
+
+⭐ If you like my work, consider giving a star to my repositories!
