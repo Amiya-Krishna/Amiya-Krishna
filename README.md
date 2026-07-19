@@ -85,9 +85,10 @@ A modern full-stack platform for discovering and comparing colleges.
 
 ---
 
-### 🤖 AI Autonomous Navigation System
+### 🤖 Job Application Tracker Portal
 
-An AI-based navigation project focused on intelligent path planning and autonomous decision-making.
+A full-stack web application that helps job seekers organize and track their internship and job applications in one place.
+
 
 ---
 
