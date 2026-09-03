@@ -1,6 +1,6 @@
-# Hi 👋, I'm Amiya Krishna
+# Hi 👋, I'm Amiya Krishna Chaurasiya
 
-<h3 align="center">Full Stack Developer | Computer Science Student | Building Scalable Web Applications</h3>
+<h3 align="center">Backend-Leaning Full Stack Developer | B.Tech CSE | Node.js • PostgreSQL • Redis • Next.js</h3>
 
 <p align="center">
 <a href="https://amiya-krishna-portfolio.vercel.app">Portfolio</a> •
