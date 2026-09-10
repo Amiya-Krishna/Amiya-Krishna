@@ -3,7 +3,7 @@
 <h3 align="center">Backend-Leaning Full Stack Developer | B.Tech CSE | Node.js • PostgreSQL • Redis • Next.js</h3>
 
 <p align="center">
-<a href="https://amiya-krishna-portfolio.vercel.app">Portfolio</a> •
+<a href="https://www.amiyakrishna.dev">Portfolio</a> •
 <a href="https://github.com/Amiya-Krishna">GitHub</a> •
 <a href="https://www.linkedin.com/in/amiya-krishna">LinkedIn</a>
 </p>
