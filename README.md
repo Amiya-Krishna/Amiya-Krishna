@@ -105,9 +105,10 @@ A full-stack web application that helps job seekers organize and track their int
 
 ## 📫 Connect With Me
 
-- 🌐 Portfolio: https://amiya-krishna-portfolio.vercel.app
+- 🌐 Portfolio: https://www.amiyakrishna.dev 
 - 💼 LinkedIn: https://www.linkedin.com/in/amiya-krishna
-- 💻 GitHub: https://github.com/Amiya-Krishna
+- 💻 GitHub:
+https://github.com/Amiya-Krishna
 - 📸 Instagram: https://www.instagram.com/er.amiyakrishna
 
 ---
